@@ -3,7 +3,7 @@ Random Number Guesser
 This tool is an interactive GUI-based game that challenges users to guess a randomly generated number within a specified range. The user provides a minimum and maximum value for the range, and the game generates a random number within that range. The user then attempts to guess the number, with the game providing hints to guide them.
 
 Requirements
-* Python 3.x
+* Python 3.11.4
 * tkinter library (usually included with Python)
 * random library (also included with Python)
 
